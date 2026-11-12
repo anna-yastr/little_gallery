@@ -15,7 +15,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const ORIG = path.join(ROOT, '_originals');
 const GALLERY_JSON = path.join(ROOT, 'content', 'gallery.json');
 
-const FULL = 1600;   // длинная сторона картинки в галерее и lightbox
+const FULL = 1200;   // длинная сторона картинки в галерее и lightbox
 const THUMB = 720;   // ширина превью в сетке галереи и на обложках
 const PREVIEW = 1000; // превью игр, ссылок и общие картинки
 const QUALITY = 85;  // качество WebP (0–100)
