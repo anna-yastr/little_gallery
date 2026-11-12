@@ -1,0 +1,11 @@
+{
+  "name": "little-gallery",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "images": "node tools/build-images.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.1"
+  }
+}

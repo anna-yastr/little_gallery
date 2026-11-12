@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Cats flood",
+    "description": "Кликай на котиков, пока они не упали в воду. Игра на время, так что поспеши!",
+    "image": "assets/games/cats-flood/cover.webp",
+    "url": "https://anna-yastr.github.io/flood-of-cats/",
+    "tag": "Браузерная игра",
+    "featured": true
+  },
+  {
+    "title": "The Palette Oracle",
+    "description": "Колода палитр со знамениями: мистическое предсказание от Оракула — или создай свою палитру 😌",
+    "about": "✨ Колода палитр со знамениями ✨\n\nПолучи мистическое и, возможно, странное предсказание от загадочного Оракула с одной из палитр предсказательницы. Или создай свою 😌",
+    "image": "assets/games/the-palette-oracle/cover.webp",
+    "url": "https://t.me/ametanami_palette_oracle_bot",
+    "tag": "Telegram-бот",
+    "linkLabel": "Открыть бота ✦"
+  },
+  {
+    "title": "The broken telephone",
+    "description": "Быстрый испорченный телефон: история рождается по кусочкам — текстом или скетчем.",
+    "about": "Быстрый испорченный телефон\n\nЭто штука, где история рождается по кусочкам. Каждый участник видит только предыдущий фрагмент и затем продолжает его коротким текстом или скетчем.\n\nСамое приятное, что каждый может выбрать, как участвовать: хошь — пиши, хошь — рисуй, хошь — выбирай оба, и что попадёт, то и попадёт.",
+    "image": "assets/games/the-broken-telephone/cover.webp",
+    "url": "https://t.me/broken_telephone_bot",
+    "tag": "Telegram-бот",
+    "linkLabel": "Открыть бота ✦"
+  }
+]

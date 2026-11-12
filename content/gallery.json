@@ -1,0 +1,185 @@
+[
+  {
+    "id": "witches",
+    "title": "Ведьмочки",
+    "group": "Арты",
+    "featured": true,
+    "images": []
+  },
+  {
+    "id": "memes",
+    "title": "Рисую приколы",
+    "group": "Арты",
+    "images": [
+      "art-iz-shuflyadki.webp",
+      "komiks-stori-1.webp",
+      "moy-novyy-art-2.webp",
+      "nichego-ne-poluchilos.webp",
+      "cho-za-h-ya-narisovala.webp",
+      "my-last-brain-cell.webp"
+    ]
+  },
+  {
+    "id": "fanart",
+    "title": "Фан-артусы",
+    "group": "Арты",
+    "images": [
+      "pryaduschaya.webp",
+      "allan-wayne.webp",
+      "evernight.webp",
+      "ksu.webp",
+      "nicolas.webp"
+    ]
+  },
+  {
+    "id": "watercolor",
+    "title": "Акварельное",
+    "group": "Арты",
+    "images": [
+      "aphoto-2026-06-18-18-14-20.webp",
+      "img-4079.webp",
+      "img-4110.webp",
+      "img-4151.webp",
+      "img-4665.webp",
+      "img-4671.webp",
+      "photo-2026-06-18-18-14-22.webp",
+      "photo-2026-06-18-18-14-27.webp",
+      "photo-2026-06-18-18-14-36.webp",
+      "photo-2026-06-18-18-14-44.webp"
+    ]
+  },
+  {
+    "id": "comic-inside",
+    "title": "Внутри",
+    "group": "Комиксы",
+    "layout": "book",
+    "featured": true,
+    "images": [
+      "inside-001.webp",
+      "inside-002.webp",
+      "inside-003.webp",
+      "inside-004.webp",
+      "inside-005.webp",
+      "inside-006.webp",
+      "inside-007.webp",
+      "inside-008.webp"
+    ]
+  },
+  {
+    "id": "comic-heights",
+    "title": "Я и моя боязнь высоты",
+    "group": "Комиксы",
+    "layout": "book",
+    "images": [
+      "boyazn-vysoty1.webp",
+      "boyazn-vysoty2.webp",
+      "boyazn-vysoty3.webp",
+      "boyazn-vysoty4.webp",
+      "boyazn-vysoty5.webp"
+    ]
+  },
+  {
+    "id": "comic-summer",
+    "title": "Ебучее лето",
+    "shelfTitle": "**учее лето",
+    "group": "Комиксы",
+    "layout": "book",
+    "images": [
+      "ebuchee-leto-01.webp",
+      "ebuchee-leto-02.webp",
+      "ebuchee-leto-03.webp",
+      "ebuchee-leto-04.webp"
+    ]
+  },
+  {
+    "id": "comic-witch-tea",
+    "title": "Ведьмин чаёк",
+    "group": "Комиксы",
+    "layout": "book",
+    "images": []
+  },
+  {
+    "id": "avtorskie-serii",
+    "title": "Авторские серии",
+    "images": [],
+    "group": "Арты"
+  },
+  {
+    "id": "avtorskie-serii-kosmicheskie-divy",
+    "title": "Космические дивы",
+    "parent": "avtorskie-serii",
+    "images": [
+      "black-hole.webp",
+      "don-t-look-up.webp",
+      "spine.webp"
+    ]
+  },
+  {
+    "id": "comic-witch-tea-kontsepty",
+    "title": "Концепты",
+    "parent": "comic-witch-tea",
+    "images": [
+      "3d-bg-test.webp",
+      "mia-nekromantka-kontsept-001.webp",
+      "comic-style-test-003.webp",
+      "concepts2.webp",
+      "mia-001.webp",
+      "mia-autumn.webp",
+      "mia-ref-list-001.webp"
+    ]
+  },
+  {
+    "id": "witches-witchtober-2024-2025",
+    "title": "Witchtober 2024-2025",
+    "parent": "witches",
+    "images": [
+      "1-ethereal-witch.webp",
+      "2-swarm-witch.webp",
+      "3-glass-witch.webp",
+      "4-rebel-witch.webp",
+      "5-abundance.webp",
+      "6-twist.webp",
+      "7-feather.webp",
+      "8-journey.webp",
+      "9-glamour.webp",
+      "10-comfort.webp",
+      "11-blade.webp",
+      "12-ancestor.webp"
+    ]
+  },
+  {
+    "id": "witches-witchtober-2026",
+    "title": "Witchtober 2026",
+    "parent": "witches",
+    "images": [
+      "witchtober-01.webp",
+      "witchtober-02.webp",
+      "witchtober-03.webp",
+      "witchtober-04.webp",
+      "witchtober-05.webp",
+      "witchtober-06.webp",
+      "witchtober-07.webp",
+      "witchtober-08.webp",
+      "witchtober-09.webp",
+      "witchtober-10.webp",
+      "witchtober-11.webp",
+      "witchtober-12.webp",
+      "witchtober-13.webp",
+      "witchtober-14.webp",
+      "witchtober-15.webp",
+      "witchtober-16.webp"
+    ]
+  },
+  {
+    "id": "witches-esche-vedmochki",
+    "title": "Еще ведьмочки!",
+    "parent": "witches",
+    "images": [
+      "vedmart-mao-mao-resized.webp",
+      "vedmart-riyna-004.webp",
+      "draw-this-again.webp",
+      "red-hat.webp"
+    ],
+    "cover": "cover.webp"
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "name": "Ame Tanami",
+  "hello": "Приветы!",
+  "greeting": "Добро пожаловать в библиотеку моего творчества ✦ Тут можно побродить по комиксам, арт-подборкам, анимациям, стикерам и даже играм ^^ А всё остальное продолжает жить в канале.",
+  "avatar": "assets/common/avatar.webp",
+  "channel": "https://t.me/ame_tanami",
+  "channelLabel": "Канал в Telegram ✦",
+  "featuredTitle": "Сейчас интересно",
+  "galleryView": "shelf",
+  "homeView": "shelf",
+  "sections": {
+    "games": {
+      "title": "Игры и интерактивы",
+      "intro": "Маленькие игры, боты и творческие активности."
+    },
+    "gallery": {
+      "title": "Галерея",
+      "intro": "Арт-подборки и мини-комиксы."
+    },
+    "links": {
+      "title": "Ссылки и всякое",
+      "intro": "Стикеры, анимации и обзоры скетчбуков."
+    }
+  },
+  "socials": [
+    {
+      "title": "Телеграм щитпост",
+      "url": "https://t.me/+JFMeqhSCLPhjMWQ6"
+    },
+    {
+      "title": "Threads",
+      "url": "https://www.threads.net/@ame_tanami_art"
+    },
+    {
+      "title": "ArtStation",
+      "url": "https://www.artstation.com/ametanami"
+    },
+    {
+      "title": "TikTok",
+      "url": "https://www.tiktok.com/@ametanami_draw"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/@ame_tanami"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ame Tanami — библиотека творчества</title>
+  <meta name="description" content="Комиксы, арт-подборки, игры, стикеры и всякое творческое от Ame Tanami.">
+  <meta name="theme-color" content="#1c1f45">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9C%A6%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&family=Unbounded:wght@500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip" href="#app" data-skip>Перейти к содержимому</a>
+
+  <header class="site-header">
+    <div class="wrap site-header__inner">
+      <a class="brand" href="#">
+        <span class="brand__star" aria-hidden="true">✦</span>
+        <span class="brand__name" data-site-name>Ame Tanami</span>
+      </a>
+      <nav class="nav" aria-label="Основная навигация">
+        <a href="#" data-route="home">Главная</a>
+        <a href="#games" data-route="games">Игры</a>
+        <a href="#gallery" data-route="gallery">Галерея</a>
+        <a href="#links" data-route="links">Ссылки</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="wrap" tabindex="-1">
+    <p class="loading">Загрузка…</p>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <ul class="socials" id="socials" aria-label="Соцсети"></ul>
+      <p class="site-footer__note">✦ <span data-site-name>Ame Tanami</span> ✦</p>
+    </div>
+  </footer>
+
+  <dialog class="lb" id="lightbox" aria-label="Просмотр картинки">
+    <div class="lb__bar">
+      <span class="lb__count" aria-live="polite"></span>
+      <button class="lb__close" type="button" data-lb-close aria-label="Закрыть">✕</button>
+    </div>
+    <div class="lb__stage">
+      <img class="lb__img" alt="">
+      <p class="lb__empty" hidden>✦<br>картинка скоро появится</p>
+      <button class="lb__nav lb__nav--prev" type="button" data-lb-prev aria-label="Предыдущая">←</button>
+      <button class="lb__nav lb__nav--next" type="button" data-lb-next aria-label="Следующая">→</button>
+    </div>
+    <p class="lb__cap"></p>
+  </dialog>
+
+  <noscript><p class="wrap notice">Для работы сайта нужен включённый JavaScript.</p></noscript>
+  <script src="js/app.js"></script>
+</body>
+</html>

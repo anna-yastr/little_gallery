@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "✦ Обновить картинки",
+      "type": "shell",
+      "command": "node tools/build-images.mjs",
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "✦ Пересобрать все картинки заново",
+      "type": "shell",
+      "command": "node tools/build-images.mjs --force",
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true },
+      "problemMatcher": []
+    }
+  ]
+}

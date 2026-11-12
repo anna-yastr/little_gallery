@@ -1,0 +1,111 @@
+[
+  {
+    "id": "animations",
+    "title": "Анимации",
+    "layout": "videos",
+    "tag": "Видео",
+    "url": "https://www.youtube.com/@ame_tanami",
+    "moreLabel": "Больше на YouTube ✦",
+    "videos": [
+      {
+        "src": "assets/links/animatsii/camomile-1st-concept.mp4",
+        "title": "Ромашка"
+      },
+      {
+        "src": "assets/links/animatsii/hesti.mp4",
+        "title": "Хести из \"Красного бедствия\""
+      }
+    ],
+    "image": "assets/links/animatsii/camomile-1st-concept.mp4"
+  },
+  {
+    "id": "stickers",
+    "title": "Анимированные стикеры",
+    "layout": "packs",
+    "tag": "Стикеры",
+    "featured": true,
+    "packs": [
+      {
+        "title": "50 оттенков спасибо",
+        "description": "Пак анимированных стикеров.",
+        "url": "https://t.me/addstickers/FiftyShadesOfTY",
+        "moreLabel": "Добавить стикеры в Telegram ✦",
+        "videos": [
+          {
+            "src": "assets/links/animirovannye-stikery/50-ottenkov-spasibo/cat-named-kitana.mp4",
+            "title": "Один из стикеров ^^"
+          }
+        ],
+        "image": "assets/links/animirovannye-stikery/50-ottenkov-spasibo/cat-named-kitana.mp4"
+      }
+    ],
+    "image": "assets/links/animirovannye-stikery/50-ottenkov-spasibo/cat-named-kitana.mp4"
+  },
+  {
+    "id": "sketchbooks",
+    "title": "Обзоры скетчбуков",
+    "image": "assets/links/obzory-sketchbukov/cover.webp",
+    "tag": "Обзоры",
+    "items": [
+      {
+        "title": "Первый микро-скетчбук 2025",
+        "url": "https://t.me/ame_tanami/944",
+        "image": "assets/links/obzory-sketchbukov/pervyy-mikro-sketchbuk-2025/cover.webp"
+      },
+      {
+        "title": "Второй микро-скетчбук 2025 с фанартами",
+        "url": "https://t.me/ame_tanami/996",
+        "image": "assets/links/obzory-sketchbukov/vtoroy-mikro-sketchbuk-2025-s-fanartami/cover.webp"
+      }
+    ]
+  },
+  {
+    "id": "homebody",
+    "title": "Записки домоседа вне дома",
+    "tag": "Фото-заметки",
+    "description": "Фото-заметки из поездок — посты в канале.",
+    "items": [
+      {
+        "title": "Хорватия 2026",
+        "url": "https://t.me/ame_tanami/1271",
+        "image": "assets/links/zapiski-domoseda-vne-doma/horvatiya-2026/cover.webp"
+      },
+      {
+        "title": "Хорватия 2025",
+        "url": "https://t.me/ame_tanami/1113",
+        "image": "assets/links/zapiski-domoseda-vne-doma/horvatiya-2025/cover.webp"
+      },
+      {
+        "title": "Парижские катакомбы и кладбище 2025",
+        "url": "https://t.me/ame_tanami/1098",
+        "image": "assets/links/zapiski-domoseda-vne-doma/parizhskie-katakomby-i-kladbische-2025/cover.webp"
+      },
+      {
+        "title": "Париж 2025",
+        "url": "https://t.me/ame_tanami/1092",
+        "image": "assets/links/zapiski-domoseda-vne-doma/parizh-2025/cover.webp"
+      },
+      {
+        "title": "Грузия. Каньон Мартвили 2022",
+        "url": "https://t.me/ame_tanami/81",
+        "image": "assets/links/zapiski-domoseda-vne-doma/gruziya-kanon-martvili-2022/cover.webp"
+      },
+      {
+        "title": "Грузия. Каньон Окаце 2022",
+        "url": "https://t.me/ame_tanami/62",
+        "image": "assets/links/zapiski-domoseda-vne-doma/gruziya-kanon-okatse-2022/cover.webp"
+      },
+      {
+        "title": "Грузия. Пещера Прометея 2022",
+        "url": "https://t.me/ame_tanami/119",
+        "image": "assets/links/zapiski-domoseda-vne-doma/gruziya-peschera-prometeya-2022/cover.webp"
+      },
+      {
+        "title": "Грузия. Сатаплия 2022",
+        "url": "https://t.me/ame_tanami/32",
+        "image": "assets/links/zapiski-domoseda-vne-doma/gruziya-satapliya-2022/cover.webp"
+      }
+    ],
+    "image": "assets/links/zapiski-domoseda-vne-doma/horvatiya-2026/cover.webp"
+  }
+]
